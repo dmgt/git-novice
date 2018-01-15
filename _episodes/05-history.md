@@ -352,8 +352,10 @@ moving backward and forward in time becomes much easier.
 >
 > 5. Both 2 and 4
 > > ## Solution
-> > Text of solution here
-> >
+> > `git checkout HEAD` does not check out that specific file
+> > `$ git checkout HEAD data_cruncher.py` works to recover her previously committed version
+> > `$ git checkout HEAD~1 data_cruncher.py` checks out the version from 2 commits ago (one before the most recent one called HEAD)
+> > `$ git checkout <unique ID of last commit> data_cruncher.py` also recovers her previously committed version
 > {: .solution}
 {: .challenge}
 
