@@ -351,6 +351,11 @@ moving backward and forward in time becomes much easier.
 > 4. `$ git checkout <unique ID of last commit> data_cruncher.py`
 >
 > 5. Both 2 and 4
+
+> > ## Solution
+> > Text of solution here
+> >
+> {: .solution}
 {: .challenge}
 
 > ## Reverting a Commit
