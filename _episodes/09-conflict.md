@@ -308,9 +308,9 @@ consider these technical approaches to reducing them:
 Conflicts can also be minimized with project management strategies:
 
 - Clarify who is responsible for what areas with your collaborators
-- Discuss what order tasks should be carried out in with your collaborators so
+- Discuss what order tasks should be carried out with your collaborators so
   that tasks expected to change the same lines won't be worked on simultaneously
-- If the conflicts are stylistic churn (e.g. tabs vs. spaces), establish a
+- If the conflicts are due to differences in style (e.g. tabs vs. spaces), establish
   project convention that is governing and use code style tools (e.g.
   `htmltidy`, `perltidy`, `rubocop`, etc.) to enforce, if necessary
 
@@ -332,7 +332,7 @@ Conflicts can also be minimized with project management strategies:
 >
 > > ## Solution
 > >
-> > Let's try it. Suppose Dracula takes a picture of Martian surface and
+> > Let's try it. Suppose Dracula takes a picture of the Martian surface and
 > > calls it `mars.jpg`.
 > >
 > > If you do not have an image file of Mars available, you can create
