@@ -2,7 +2,7 @@
 title: Conflicts
 teaching: 15
 exercises: 0
-questions:
+question
 - "What do I do when my changes conflict with someone else's?"
 objectives:
 - "Explain what conflicts are and when they can occur."
@@ -501,7 +501,7 @@ Conflicts can also be minimized with project management strategies:
 >
 > - *Make changes* by appending the number `100` to a text file `numbers.txt`
 > - *Update remote* repository to match the local repository
-> - *Celebrate* your success with beer(s)
+> - *Celebrate* your success with your choice of delicious beverage!
 > - *Update local* repository to match the remote repository
 > - *Stage changes* to be committed
 > - *Commit changes* to the local repository
@@ -519,7 +519,7 @@ Conflicts can also be minimized with project management strategies:
 > |3    |                           |                            |
 > |4    |                           |                            |
 > |5    |                           |                            |
-> |6    | Celebrate!                | `AFK`                      |
+> |6    | Celebrate!                |                            |
 >
 > > ## Solution
 > >
@@ -530,7 +530,7 @@ Conflicts can also be minimized with project management strategies:
 > > |3    | Stage changes     | `git add numbers.txt`                        |
 > > |4    | Commit changes    | `git commit -m "Add 100 to numbers.txt"`     |
 > > |5    | Update remote     | `git push origin master`                     |
-> > |6    | Celebrate!        | `AFK`                                        |
+> > |6    | Celebrate!        |                                              |
 > >
 > {: .solution}
 {: .challenge}
