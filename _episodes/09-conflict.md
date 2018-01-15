@@ -2,7 +2,7 @@
 title: Conflicts
 teaching: 15
 exercises: 0
-question
+questions:
 - "What do I do when my changes conflict with someone else's?"
 objectives:
 - "Explain what conflicts are and when they can occur."
